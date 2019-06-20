@@ -1,0 +1,21 @@
+{
+  "name": "PictureCropper",
+  "version": "1.0.0",
+  "description": "An App that changes an Image and Crops same",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.11.1",
+    "npm": "6.9.0"
+  },
+  "author": "Ryan Mantonis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*",
+    "jimp": "^0.6.4",
+    "path": "*",
+    "mkdirp": "^0.5.1"
+  }
+}
